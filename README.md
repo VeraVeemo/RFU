@@ -1,5 +1,5 @@
 ## " __Random File Uploader__ "
-### - By [AVeemo](https://github.com/VeraVeemo)
+### By [AVeemo](https://github.com/VeraVeemo) | Request by [@realemerald_egg](https://discord.com/users/1107792409674403890)
 Picks a random file you've put into a dir and uploads it to a discord channel of your choosing.
 
 "Images" folder is in "_internal" folder.
